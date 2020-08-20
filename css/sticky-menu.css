@@ -68,11 +68,11 @@ html {
 }
 .navbar-default .navbar-nav > li > a:hover {
 	color: #333;
-	background-color: #F0F0F0;
+	background-color: #CDCDCD;
 }
 .navbar-default {
-    background-color: #EBFAFF;
-    border-color: #e7e7e7;
+    background-color: #CDCDCD;
+    border-color: #CDCDCD;
 }
 .navbar-default .navbar-nav > li > a {
     color: #000;
