@@ -52,19 +52,19 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #DAD9D9;
+    background: ##A9A9A9;
 }
 .whatwedo-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #CBCBCB;
+    background: #A9A9A9;
 }
 .contact-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #B0B0B0;
+    background: #696969;
 }
 .navbar-default .navbar-nav > li > a:hover {
 	color: #333;
